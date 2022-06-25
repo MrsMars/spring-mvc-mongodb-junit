@@ -14,7 +14,7 @@
         <jdk.version>11</jdk.version>
         <spring.version>5.2.3.RELEASE</spring.version>
         <jstl.version>1.2</jstl.version>
-        <mongo.version>2.2.4.RELEASE</mongo.version>
+        <mongo.version>3.3.5</mongo.version>
         <servlet.version>4.0.1</servlet.version>
         <jackson.version>2.10.2</jackson.version>
 
