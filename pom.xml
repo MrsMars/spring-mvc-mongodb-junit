@@ -16,7 +16,7 @@
         <jstl.version>1.2</jstl.version>
         <mongo.version>2.2.4.RELEASE</mongo.version>
         <servlet.version>4.0.1</servlet.version>
-        <jackson.version>2.10.2</jackson.version>
+        <jackson.version>2.12.6.1</jackson.version>
 
         <spring.test.version>5.2.3.RELEASE</spring.test.version>
         <mockito.version>3.2.4</mockito.version>
